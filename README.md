@@ -2,8 +2,9 @@
 A responsive, user-friendly website prototype for a ship dealership business. Built with HTML, CSS, and vanilla JS to ensure cross-device usability and accessibility.
 
 ## Preview
-🔗 **Live Demo** → [https://shipdeckkbyfel.netlify.app](https://shipdeckkbyfel.netlify.app)  
-![Website Preview](preview.png)
+🔗 **Live Demo** → [Link to Web Prototype](https://shipdeckkbyfel.netlify.app)  
+![Website Preview]([preview.png](https://raw.githubusercontent.com/feliciadrey/Ship-Dealer-Company-Website/main/preview.png
+))
 
 ## Project Overview
 ShipDecKK is a front-end web project simulating a professional ship dealer’s online presence. The site includes:
